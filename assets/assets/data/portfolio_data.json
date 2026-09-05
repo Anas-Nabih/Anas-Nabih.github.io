@@ -1,0 +1,509 @@
+{
+  "personalInfo": {
+    "name": "Anas Nabih",
+    "title": "Mobile Software Engineer",
+    "description": "Building scalable Flutter and Android applications with Clean Architecture and modern software engineering practices.",
+    "old_about": "Mobile Software Engineer with 4+ years of experience delivering scalable, high-performance cross-platform applications across mobile, web, and desktop using Flutter and Kotlin. Skilled in Clean Architecture, BLoC/Cubit, Provider, GetX, Firebase, REST APIs, testing, and performance optimization. Experienced across ERP, POS, e-commerce, booking, and government domains — with apps live in UAE and KSA markets. Committed to writing clean, maintainable code, building scalable architectures, and delivering polished user experiences that drive real business value.",
+    "about": "Mobile Software Engineer with 5 years of experience building scalable, high-performance applications across mobile, web, and desktop platforms. Specialized in Android development with Kotlin and Jetpack Compose, alongside extensive experience delivering production-grade Flutter applications.\n\nThroughout my career, I have contributed to 15+ applications across various industries, including ERP, POS, e-commerce, booking, delivery, and government solutions, delivering products for diverse markets across the Middle East, including Egypt and GCC countries such as Saudi Arabia, UAE, Kuwait, and Oman.\n\nExperienced in designing clean and maintainable architectures using Clean Architecture, MVVM, SOLID principles, and modern development practices. Skilled in integrating REST APIs, Firebase services, payment gateways, maps, notifications, local databases, and implementing testing strategies to build reliable and scalable products.\n\nPassionate about building impactful software experiences, writing clean code, improving performance, and collaborating with teams to create solutions that solve real-world problems and deliver business value.\n\nCurrently focused on advancing my expertise in native mobile development across Android and iOS platforms, while continuously strengthening my software engineering capabilities through modern architectures, scalable design principles, and industry best practices.",
+    "image": "assets/images/my_image.jpg",
+    "cv": "Anas Nabih - Mobile Software Engineer.pdf",
+    "github": "https://github.com/Anas-nabih",
+    "linkedin": "https://www.linkedin.com/in/anasnabih/",
+    "email": "anas7nabih@gmail.com",
+    "whatsappNumber": "+201289804705",
+    "phone": "+201289804705"
+  },
+  "stats": [
+    {
+      "title": "15+",
+      "subtitle": "Production Apps",
+      "icon": "mobileScreen"
+    },
+    {
+      "title": "5+",
+      "subtitle": "Years Experience",
+      "icon": "clockRotateLeft"
+    },
+    {
+      "title": "Multiple",
+      "subtitle": "Backend Integrations",
+      "icon": "database"
+    },
+    {
+      "title": "100%",
+      "subtitle": "Native, Cross-Platform",
+      "icon": "layerGroup"
+    }
+  ],
+  "services": [
+    {
+      "title": "Mobile App Development",
+      "description": "Building high-performance, cross-platform mobile applications using Flutter and Dart with clean architecture.",
+      "icon": "mobileScreenButton"
+    },
+    {
+      "title": "API & Backend Integration",
+      "description": "Seamlessly integrating REST APIs, Firebase, and Supabase to provide robust backend solutions and real-time data.",
+      "icon": "server"
+    },
+    {
+      "title": "UI/UX Implementation",
+      "description": "Translating complex designs into beautiful, responsive, and interactive user interfaces with smooth animations.",
+      "icon": "palette"
+    },
+    {
+      "title": "App Optimization",
+      "description": "Improving app performance, fixing bugs, and ensuring smooth user experiences through rigorous testing and debugging.",
+      "icon": "bolt"
+    }
+  ],
+  "expertise": [
+    {
+      "name": "Dart",
+      "icon": "code"
+    },
+    {
+      "name": "Kotlin",
+      "icon": "code"
+    },
+    {
+      "name": "Flutter",
+      "icon": "flutter"
+    },
+    {
+      "name": "Jetpack Compose",
+      "icon": "jetpackCompose"
+    },
+    {
+      "name": "Firebase",
+      "icon": "bolt"
+    },
+    {
+      "name": "Room",
+      "icon": "database"
+    },{
+      "name": "Coroutines",
+      "icon": "bolt"
+    },
+    {
+      "name": "Clean Architecture",
+      "icon": "layerGroup"
+    },
+    {
+      "name": "Solid Principles",
+      "icon": "layerGroup"
+    },
+    {
+      "name": "Flavor",
+      "icon": "code"
+    },
+    {
+      "name": "Cubit/BLoC",
+      "icon": "atom"
+    },
+    {
+      "name": "REST APIs",
+      "icon": "link"
+    },
+    {
+      "name": "Git/GitHub",
+      "icon": "github"
+    },
+    {
+      "name": "App Store/Play Store",
+      "icon": "store"
+    },
+    {
+      "name": "Payment Gateways",
+      "icon": "checkDouble"
+    },
+    {
+      "name": "Google Maps",
+      "icon": "mapLocation"
+    },
+    {
+      "name": "Push Notifications",
+      "icon": "bolt"
+    }
+  ],
+  "expertiseDetails": [
+    {
+      "title": "Problem Solver",
+      "desc": "Turning complex problems into elegant code.",
+      "icon": "brain"
+    },
+    {
+      "title": "Clean Code",
+      "desc": "Maintainable, scalable, and modern architectures.",
+      "icon": "checkDouble"
+    },
+    {
+      "title": "Performance",
+      "desc": "Optimized apps for smooth 60/120 FPS experience.",
+      "icon": "gaugeHigh"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Mobile Software Engineer",
+      "company": "Tania Water",
+      "exps": [
+        "Developing and maintaining native Android and iOS applications.",
+        "Implementing new features and improving application performance and stability.",
+        "Collaborating with the team to deliver reliable mobile solutions."
+      ],
+      "period": "Jun 2026 – Present"
+    }, {
+      "title": "Senior Mobile Developer",
+      "company": "DGTEC",
+      "exps": [
+        "Leading the full refactoring and revamping of Dgtera (Admin & HR) apps to streamline operations and sales tracking; ensuring long-term scalability by applying Clean Architecture, SOLID principles, and advanced Design Patterns.",
+        "Architecting and developing \"the official Saudi Shura Council application\", implementing Clean Architecture and Clean Code principles to ensure high maintainability, peak performance, and a seamless UI/UX.",
+        "Contributing to the development of the Dgtera system across mobile and desktop platforms.",
+        "Contributing to the development of Al Rajhi Food and Al Rajhi Driver apps, focusing on delivering a seamless and intuitive user experience.",
+        "Implementing clean, testable architecture to ensure codebase maintainability, scalability, and the smooth integration of new features.",
+        " Integrating industry best practices for secure communication and scalability using IBM WBC services."
+      ],
+      "period": "Aug 2025 – Jun 2026"
+    },
+    {
+      "title": "Mobile Developer",
+      "company": "DGTEC",
+      "exps": [
+        "Design and implement application architecture and best practices for Flutter applications.",
+        "Collaborate with cross-functional teams to define and design new features.",
+        "Write clean, maintainable, and efficient Dart code.",
+        "Work closely with UI/UX designers to translate design concepts into functional Flutter applications.",
+        "Identify and resolve performance bottlenecks and bugs in Flutter applications.",
+        "Optimize Flutter applications for maximum speed and scalability."
+      ],
+      "period": "Mar 2024 – Aug 2025"
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Smart Sols",
+      "exps": [
+        "Built high-performance Flutter applications for Mobile & Web with adaptive and responsive UI across multiple devices.",
+        "Developed a full E-commerce system with modules for Kitchen, Client, and Delivery, optimizing the order lifecycle and delivery workflow.",
+        "Created a Real Estate application for property browsing with advanced filtering and interactive UI.",
+        "Integrated secure payment gateways to support seamless transactions in E-commerce and Real Estate platforms"
+      ],
+      "period": "Sep 2023 – Mar 2025"
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Freelance",
+      "exps": [
+        "Applied clean code principles, design patterns, and testing practices to build scalable, maintainable, and high-quality mobile applications.",
+        "Developed advanced mobile solutions from scratch, translating business requirements into efficient and user-friendly applications.\nBuilt an E-commerce application supporting product browsing, ordering workflows, and seamless user experiences.",
+        "Developed a Booking platform enabling users to schedule, manage, and track reservations efficiently.",
+        "Created a dedicated NFC-based application enabling seamless data transfer and integration with device hardware capabilities."
+      ],
+      "period": "Jul 2022 – Sep 2023"
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "HashStudio",
+      "exps": [
+        "Design and build UI, components, navigation elements and customization for an extensive, highly interactive and performance application.",
+        "Debugging code to find and fix errors in existing applications.",
+        "Publish Flutter applications to both App Store and Google Play-Store.",
+        "Collaborating with other members of the development team to ensure that all components of an application meet functional and design requirements.",
+        "Help trainees to understand advanced topics and handle app with variant State Management."
+      ],
+      "period": "Jul 2021 – Jul 2022"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Smart Patrol",
+      "bg_color": "0xFF034081",
+      "description": "An official government desktop application deployed on Windows-based patrol systems in the UAE. supporting field operations and providing reliable access to operational services and data.",
+      "imageUrl": "assets/images/smart_patrol_banner.jpg",
+      "technologies": [
+        "Flutter Desktop",
+        "Dart",
+        "Windows",
+        "Graphql APIs",
+        "Clean Architecture"
+      ]
+    },
+    {
+      "title": "Saudi Shura Council",
+      "bg_color": "0xFFFFFFFF",
+      "description": "The official Saudi Shura Council app provides citizens with seamless access to council services and information. It includes daily news, session agendas, video recordings, council resolutions, and achievements, along with the ability to submit citizen proposals. I contributed to redesigning the app with a modern UI/UX, improving performance, and enhancing scalability to deliver a more efficient and user-friendly government digital experience.",
+      "imageUrl": "assets/images/shura_showcase.jpeg",
+      "technologies": [
+        "Flutter",
+        "Nafath",
+        "Swagger",
+        "Clean Architecture",
+        "Performance Optimization"
+      ],
+      "appStoreUrl": "https://apps.apple.com/us/app/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%88%D8%B1%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A/id1059674023",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.codelab.shura&hl=ar"
+    },
+    {
+      "title": "Tania Water - أطلب مياه تانيا",
+      "bg_color": "0xFFd6006d",
+      "description": "Tania Water is the official mobile application designed to provide customers with a seamless and convenient way to explore Tania's services and products. The app focuses on delivering a smooth user experience that reflects the brand's vision of celebrating life, allowing users to easily access services, manage their interactions, and stay connected with the latest offerings. I contributed to developing and maintaining the Android application using modern native Android technologies while ensuring high performance, scalability, and a polished user experience.",
+      "imageUrl": "assets/images/tania_banner.jpeg",
+      "technologies": [
+        "Kotlin",
+        "MVVM",
+        "Jetpack Components",
+        "Coroutines & Flow",
+        "Hilt",
+        "Retrofit",
+        "Room Database"
+      ],
+      "appStoreUrl": "https://apps.apple.com/sa/app/%D8%A3%D8%B7%D9%84%D8%A8-%D9%85%D9%8A%D8%A7%D9%87-%D8%AA%D8%A7%D9%86%D9%8A%D8%A7-tania/id1291703494",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=ibtikar.tania.user"
+    },
+    {
+      "title": "DGTERA HR",
+      "bg_color": "0xFF6423AE",
+      "description": "Dgtera HR is a user-friendly and customizable HR application built on the Odoo backend, designed to streamline people management processes. It enables efficient attendance tracking, time-off management, and task handling in one place. The system also provides clear visibility over timesheets and team performance. With its modern approach, Dgtera helps organizations improve productivity and stay aligned with HR best practices.",
+      "imageUrl": "assets/images/hr_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "Odoo",
+        "FCM",
+        "Firebase Cloud Firestore",
+        "WorkManager",
+        "Google Maps",
+        "Bloc"
+      ],
+      "appStoreUrl": "https://apps.apple.com/eg/app/dgtera-admin/id1584280053",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dgtera.hr&hl=ar"
+    },
+    {
+      "title": "DGTERA Admin",
+      "bg_color": "0xFF6423AE",
+      "description": "Monitor sales, balance, and profit across branches to gain clear insights and support better decision-making. Track performance regularly, identify opportunities for improvement, and ensure continuous business growth and profitability.",
+      "imageUrl": "assets/images/admin_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "Odoo",
+        "WorkManager",
+        "Home Widget",
+        "Bloc",
+        "Clean Architecture"
+      ],
+      "appStoreUrl": "https://apps.apple.com/us/app/dgtera-admin/id1584280053",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dgtera.dashboard&hl=ar"
+    },
+    {
+      "title": "Tapi",
+      "bg_color": "0xFFFFFFFF",
+      "description": "Tapi is a smart digital business card app that allows users to instantly share contact information, social media profiles, and files using NFC technology. Designed for seamless networking, the app eliminates traditional cards and enables fast, secure, and modern data exchange with just a tap.",
+      "imageUrl": "assets/images/tapi_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "NFC",
+        "REST API",
+        "Clean Architecture"
+      ],
+      "appStoreUrl": "https://apps.apple.com/us/app/tapi-digital-business-card/id6463052840",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.get.trytapi"
+    },
+    {
+      "title": "Al Rajhi Food",
+      "bg_color": "0xFFff8700",
+      "description": "Al Rajhi Food is a food service application designed to streamline ordering and delivery operations for restaurants. The app provides a smooth user experience for browsing menus, placing orders, and managing food delivery efficiently with secure and scalable architecture.",
+      "imageUrl": "assets/images/alrajhi_food_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "REST API",
+        "Payment Integration",
+        "Clean Architecture"
+      ],
+      "appStoreUrl": "https://apps.apple.com/fi/app/alrajhi-food-%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D9%8A-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9/id6458534560",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.dgtera.rajhi"
+    },
+    {
+      "title": "Al Rajhi Driver",
+      "bg_color": "0xFFEF7822",
+      "description": "Al Rajhi Driver is a delivery management app designed for drivers to efficiently handle food delivery operations. It provides real-time order tracking, route management, and status updates to ensure smooth and reliable delivery experiences.",
+      "imageUrl": "",
+      "technologies": [
+        "Flutter",
+        "Google Maps",
+        "Realtime Updates",
+        "REST API"
+      ],
+      "appStoreUrl": "https://apps.apple.com/fi/app/rajhi-driver/id6461013816",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rajhi.driver"
+    },
+    {
+      "title": "Zadkom",
+      "bg_color": "0xFFFF4500",
+      "description": "An e-commerce platform where I contributed by maintaining the application and integrating secure payment solutions, improving user experience and transaction reliability.",
+      "imageUrl": "assets/images/zadkom_banner.jpeg",
+      "technologies": [
+        "Flutter Web",
+        "Payment Integration",
+        "Google Maps",
+        "REST API"
+      ],
+      "appStoreUrl": "https://apps.apple.com/in/developer/sami-fazari/id1540507055",
+      "playStoreUrl": "https://play.google.com/store/apps/developer?id=Zadkom+TM"
+    },
+    {
+      "title": "Nartaqi",
+      "bg_color": "0xFF01b6f3",
+      "description": "Nartaqi is a mobile application focused on improving user engagement and performance. It helped strengthen my expertise in clean code, testing, and applying scalable architecture patterns.",
+      "imageUrl": "",
+      "technologies": [
+        "Flutter",
+        "Zoom Sdk",
+        "OneSignal",
+        "Clean Code"
+      ],
+      "appStoreUrl": "https://apps.apple.com/ca/app/%D9%86%D8%B1%D8%AA%D9%82%D9%8A/id1549343639",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hashstudio.nartaqy_app"
+    },
+    {
+      "title": "Elite Homes",
+      "bg_color": "0xFFB7302B",
+      "description": "Elite Homes is a real estate platform that enables users to browse, rent, and purchase properties بسهولة مع تجربة مستخدم سلسة ودعم لعمليات الدفع وإدارة الحجوزات.",
+      "imageUrl": "assets/images/elite_homes_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "KNET",
+        "REST API",
+        "Booking System"
+      ],
+      "appStoreUrl": "https://apps.apple.com/kw/app/elite-homes-real-estate/id6476204885",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.techsgate.elite_homes"
+    },
+    {
+      "title": "Touring - تورينق",
+      "bg_color": "0xFFFFFFFF",
+      "description": "Touring is a booking platform for activities across Saudi Arabia, offering secure payments and seamless booking management for users.",
+      "imageUrl": "assets/images/touring_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "Payment Integration",
+        "Real-time Chat",
+        "Push Notifications",
+        "Booking System"
+      ],
+      "appStoreUrl": "https://apps.apple.com/us/app/touring-%D8%AA%D9%88%D8%B1%D9%8A%D9%86%D9%82/id6738056344",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.touring.user"
+    },
+    {
+      "title": "Feedbacky",
+      "bg_color": "0xFFE87446",
+      "description": "Feedbacky is an e-commerce application that allows users to explore products, leave feedback, and rate their experiences, helping businesses improve customer satisfaction.",
+      "imageUrl": "assets/images/feedbacky_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "REST API"
+      ],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.hashstudio.feedbacky_app"
+    },
+    {
+      "title": "Etamen",
+      "bg_color": "0xFF119a7e",
+      "description": "a mobile healthcare platform connecting doctors and patients, featuring Zoom-based consultations, real-time chat, appointment management, and remote healthcare services.",
+      "imageUrl": "assets/images/etamen_banner.jpg",
+      "technologies": [
+        "Flutter",
+        "Zoom SDK",
+        "REST APIs",
+        "Real-time Chat",
+        "Push Notifications"
+      ]
+    },
+    {
+      "title": "Sulis",
+      "bg_color": "0xFFff691f",
+      "description": "A marketplace platform connecting suppliers and merchants with users. Merchants can showcase their products and available resources, while users can explore merchants, browse products, and communicate with them through in-app chat.",
+      "imageUrl": "assets/images/sulis_banner.jpeg",
+      "technologies": [
+        "Flutter",
+        "REST APIs",
+        "Real-time Chat",
+        "Push Notifications",
+        "E-commerce"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Software Development - Mobile App Developer",
+      "platform": "DEPI",
+      "date": "2024",
+      "icon": "mobileButton"
+    },
+    {
+      "title": "Flutter Advanced Architecture: BLoC and MVVM",
+      "platform": "Udemy",
+      "date": "2023",
+      "icon": "layerGroup"
+    },
+    {
+      "title": "Complete Flutter & Dart Development",
+      "platform": "Udemy",
+      "date": "2023",
+      "icon": "code"
+    },
+    {
+      "title": "The Complete Flutter & Dart Development Bootcamp",
+      "platform": "Udemy",
+      "date": "2023",
+      "icon": "laptopCode"
+    }
+  ],
+  "techStack": [
+    {
+      "title": "Mobile Development",
+      "icon": "mobileScreen",
+      "skills": [
+        "Kotlin & Flutter & Dart Expert",
+        "Jetpack Compose",
+        "Clean Architecture & MVVM",
+        "Bloc / Cubit State Management",
+        "Coroutines & Flow",
+        "Navigation Component",
+        "Hilt & DI",
+        "Advanced UI & Animations"
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "icon": "server",
+      "skills": [
+        "RESTful API & Postman",
+        "Firebase (Auth & Firestore)",
+        "Supabase Development",
+        "Payment Gateway Integration",
+        "Google Maps & Location Services",
+        "Push Notifications (FCM)"
+      ]
+    },
+    {
+      "title": "Software Engineering",
+      "icon": "code",
+      "skills": [
+        "AI-Assisted Development",
+        "Git & GitHub Collaboration",
+        "OOP & Design Patterns",
+        "Data Structures & Algorithms",
+        "Performance & Debugging"
+      ]
+    },
+    {
+      "title": "Data & Local Storage",
+      "icon": "database",
+      "skills": [
+        "Hive & SQLite",
+        "Room",
+        "SharedPreferences",
+        "Flutter Secure Storage"
+      ]
+    }
+  ]
+}
+
